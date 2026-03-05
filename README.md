@@ -2,11 +2,15 @@
 
 **Desenvolvedor Full Stack**
 
-Olá! Me chamo **Rai Matias**, tenho 18 anos e sou apaixonado por tecnologia, desenvolvimento de software e criação de sistemas.  
+Olá! Me chamo **Rai Matias**, tenho 18 anos e sou apaixonado por tecnologia, desenvolvimento de software e criação de sistemas.
 
 Atualmente estudo **Desenvolvimento de Sistemas** e desenvolvo projetos focados em **Web, APIs e aplicações mobile**.
 
-Gosto de transformar ideias em soluções digitais e estou sempre buscando evoluir como desenvolvedor.Atualmente, estou cursando Engenharia de Software no "@ICEV" de Teresina, capital do Piaui. 
+Gosto de transformar ideias em soluções digitais e estou sempre buscando evoluir como desenvolvedor.
+
+Atualmente estou cursando **Engenharia de Software** no  
+[ICEV - Instituto de Ensino Superior](https://www.somosicev.com/)  
+em **Teresina - PI**.
 
 ---
 
@@ -19,10 +23,6 @@ Gosto de transformar ideias em soluções digitais e estou sempre buscando evolu
 <img src="https://skillicons.dev/icons?i=php,laravel,python,java,flutter,mysql,git,github" />
 
 </p>
-
----
-
-
 
 ---
 
