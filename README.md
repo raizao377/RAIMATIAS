@@ -30,7 +30,7 @@ Gosto de transformar ideias em soluções digitais e estou sempre buscando evolu
 
 <p>
 
-<a href="[https://www.instagram.com/rai_matias_3304_dev?igsh=MXY0YzhpaHVwNndkdA==)">
+<a href="https://www.instagram.com/rai_matias_3304_dev?igsh=MXY0YzhpaHVwNndkdA==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
