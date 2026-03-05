@@ -6,7 +6,7 @@ Olá! Me chamo **Rai Matias**, tenho 18 anos e sou apaixonado por tecnologia, de
 
 Atualmente estudo **Desenvolvimento de Sistemas** e desenvolvo projetos focados em **Web, APIs e aplicações mobile**.
 
-Gosto de transformar ideias em soluções digitais e estou sempre buscando evoluir como desenvolvedor.Atualmente, estou cursando Engenharia de Software no "ICEV" de Teresina, capital do Piaui. 
+Gosto de transformar ideias em soluções digitais e estou sempre buscando evoluir como desenvolvedor.Atualmente, estou cursando Engenharia de Software no "@ICEV" de Teresina, capital do Piaui. 
 
 ---
 
