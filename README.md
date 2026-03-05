@@ -18,9 +18,26 @@ em **Teresina - PI**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=react" title="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=sass" title="Sass"/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,flutter,mysql,git,github" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
 
 </p>
 
@@ -30,7 +47,7 @@ em **Teresina - PI**.
 
 <p>
 
-<a href="https://www.instagram.com/rai_matias_3304_dev?igsh=MXY0YzhpaHVwNndkdA==">
+<a href="https://www.instagram.com/rai_matias_3304_dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -38,7 +55,7 @@ em **Teresina - PI**.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="SEU_LINK">
+<a href="SEU_LINK_WHATSAPP">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
